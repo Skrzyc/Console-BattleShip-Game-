@@ -2,6 +2,6 @@
 
 Simple Battleship conosle game in  C++ 
 
-- option do locate your ships
+- option to locate your ships
 - playing against computer ( shoots randomly )
 
